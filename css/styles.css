@@ -5,7 +5,7 @@ File Name: styles.css
 */
 
 /* CSS Reset */
-body, header, nav, main, footer, img, h1, ul {
+body, header, nav, main, footer, img, h1, ul, li {
     margin: 0;
     padding: 0;
     border: 0;
@@ -166,8 +166,8 @@ footer a {
     }
     
     nav li: last-child {
-        
         border-right: none;
+        
     }
     nav li a {
         padding-top: 0.25em;
